@@ -1,0 +1,7 @@
+<design:component>
+	 <design:attribute name="fontsize"  label="Font Size" default="12px" />
+    <design:attribute name="textColor"  label="Text Color" default="black"/>
+            <design:attribute name="speed" label="Speed" default="25s"/>
+            <design:attribute name="deLimiter" label="De-Limiter" default="*****"/>
+
+</design:component>

@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "HMQ Unmanaged",
+      "default": true
+    }
+  ],
+  "name": "DE_HeadlinesMarquee",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
